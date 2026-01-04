@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tablonaute - Learn Multiplication Tables by Voice</title>
+  <meta name="description" content="Master multiplication tables through voice! Smart spaced repetition helps children learn effectively. Available on Android and iOS.">
+  <meta name="keywords" content="multiplication, times tables, math, learning, kids, education, voice, speech recognition">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="/images/app-icon.png" type="image/png">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Tablonaute - Learn Multiplication Tables by Voice">
+  <meta property="og:description" content="Master multiplication through voice! Smart spaced repetition helps children learn effectively.">
+  <meta property="og:image" content="/images/app-icon.png">
+  <meta property="og:type" content="website">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <a href="/" class="logo">
+        <img src="/images/mascot.png" alt="Tablonaute">
+        <span>Tablonaute</span>
+      </a>
+      <select id="language-selector" aria-label="Select language"></select>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <img src="/images/mascot.png" alt="Tablonaute Mascot" class="hero-mascot">
+      <h1 data-i18n="title">Tablonaute</h1>
+      <p class="tagline" data-i18n="tagline">Learn Multiplication Tables by Voice</p>
+      <p class="description" data-i18n="hero_text">Master multiplication through voice! Smart spaced repetition helps children learn effectively.</p>
+
+      <div class="download-buttons">
+        <a href="#" class="btn btn-primary btn-disabled" data-i18n="play_store">Google Play</a>
+        <a href="#" class="btn btn-secondary btn-disabled">
+          <span data-i18n="app_store">App Store</span>
+          <span style="font-size: 0.8em; opacity: 0.7;">(<span data-i18n="coming_soon">Coming Soon</span>)</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section>
+      <h2 data-i18n="features">Features</h2>
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon">🎤</div>
+          <h3 data-i18n="feature_voice_title">Voice Learning</h3>
+          <p data-i18n="feature_voice_desc">Answer out loud - just like in class. No typing required.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">🧠</div>
+          <h3 data-i18n="feature_smart_title">Smart Learning</h3>
+          <p data-i18n="feature_smart_desc">Spaced repetition focuses on what needs practice most.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">📴</div>
+          <h3 data-i18n="feature_offline_title">Works Offline</h3>
+          <p data-i18n="feature_offline_desc">No internet required. Learn anywhere, anytime.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">🔒</div>
+          <h3 data-i18n="feature_privacy_title">Privacy First</h3>
+          <p data-i18n="feature_privacy_desc">All data stays on your device. No tracking, no ads.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Practice Modes Section -->
+    <section>
+      <h2 data-i18n="modes">Practice Modes</h2>
+      <div class="modes-grid">
+        <div class="mode-card">
+          <div class="mode-icon">📚</div>
+          <div>
+            <h3 data-i18n="mode_learn">Learn Mode</h3>
+            <p data-i18n="mode_learn_desc">Relaxed practice at your own pace</p>
+          </div>
+        </div>
+        <div class="mode-card">
+          <div class="mode-icon">❓</div>
+          <div>
+            <h3 data-i18n="mode_missing">Missing Number</h3>
+            <p data-i18n="mode_missing_desc">Find the missing factor (? × 6 = 42)</p>
+          </div>
+        </div>
+        <div class="mode-card">
+          <div class="mode-icon">🔄</div>
+          <div>
+            <h3 data-i18n="mode_reverse">Reverse Mode</h3>
+            <p data-i18n="mode_reverse_desc">Given a product, find the factors</p>
+          </div>
+        </div>
+        <div class="mode-card">
+          <div class="mode-icon">⏱️</div>
+          <div>
+            <h3 data-i18n="mode_time">Time Attack</h3>
+            <p data-i18n="mode_time_desc">Challenge mode to build speed</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Additional Info Section -->
+    <section>
+      <div class="info-grid">
+        <div class="info-card">
+          <h3>🌍 <span data-i18n="languages">14 Languages</span></h3>
+          <p data-i18n="languages_desc">Full support for English, French, Spanish, German, Italian, Dutch, Portuguese, Russian, Polish, Japanese, Chinese, Korean, Arabic, and Hindi.</p>
+        </div>
+        <div class="info-card">
+          <h3>👨‍👩‍👧‍👦 <span data-i18n="families">Perfect for Families</span></h3>
+          <p data-i18n="families_desc">Multiple profiles let each child track their own progress.</p>
+        </div>
+        <div class="info-card">
+          <h3>🏆 <span data-i18n="rewards">Motivating Rewards</span></h3>
+          <p data-i18n="rewards_desc">Earn XP, level up, and unlock trophies as you master multiplication.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-links">
+        <a href="/privacy.html" data-i18n="footer_privacy">Privacy Policy</a>
+        <a href="/support.html" data-i18n="footer_support">Support</a>
+      </div>
+      <p class="footer-publisher" data-i18n="footer_publisher">Tablonaute Studios powered by Warnier Advisory</p>
+      <p class="footer-contact">
+        <span data-i18n="footer_contact">Contact</span>:
+        <a href="mailto:advisory@warnier.net">advisory@warnier.net</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="/js/i18n.js"></script>
+</body>
+</html>
