@@ -26,7 +26,7 @@
     "mode_reverse_desc": "Given a product, find the factors",
     "mode_time": "Time Attack",
     "mode_time_desc": "Challenge mode to build speed",
-    "languages": "14 Languages",
+    "languages": "15 Languages",
     "languages_desc": "Full support for English, French, Spanish, German, Italian, Dutch, Portuguese, Russian, Polish, Japanese, Chinese, Korean, Arabic, and Hindi.",
     "families": "Perfect for Families",
     "families_desc": "Multiple profiles let each child track their own progress.",
@@ -98,7 +98,7 @@
     "mode_reverse_desc": "Trouve les facteurs d'un produit",
     "mode_time": "Contre la montre",
     "mode_time_desc": "Mode défi pour gagner en rapidité",
-    "languages": "14 langues",
+    "languages": "15 langues",
     "languages_desc": "Support complet pour l'anglais, français, espagnol, allemand, italien, néerlandais, portugais, russe, polonais, japonais, chinois, coréen, arabe et hindi.",
     "families": "Parfait pour les familles",
     "families_desc": "Profils multiples pour que chaque enfant suive sa progression.",
@@ -141,7 +141,7 @@
     "support_faq_offline": "L'app fonctionne-t-elle hors ligne ?",
     "support_faq_offline_answer": "Oui ! Tablonaute fonctionne entièrement hors ligne.",
     "support_faq_languages": "Quelles langues sont supportées ?",
-    "support_faq_languages_answer": "L'app supporte 14 langues : anglais, français, espagnol, allemand, italien, néerlandais, portugais, russe, polonais, japonais, chinois, coréen, arabe et hindi."
+    "support_faq_languages_answer": "L'app supporte 15 langues : anglais, français, espagnol, allemand, italien, néerlandais, portugais, russe, polonais, japonais, chinois, coréen, arabe et hindi."
   },
   "es": {
     "lang_name": "Español",
@@ -170,7 +170,7 @@
     "mode_reverse_desc": "Dado un producto, encuentra los factores",
     "mode_time": "Contrarreloj",
     "mode_time_desc": "Modo desafío para ganar velocidad",
-    "languages": "14 idiomas",
+    "languages": "15 idiomas",
     "languages_desc": "Soporte completo para inglés, francés, español, alemán, italiano, holandés, portugués, ruso, polaco, japonés, chino, coreano, árabe e hindi.",
     "families": "Perfecto para familias",
     "families_desc": "Múltiples perfiles para que cada niño siga su progreso.",
@@ -213,7 +213,7 @@
     "support_faq_offline": "¿La app funciona sin conexión?",
     "support_faq_offline_answer": "¡Sí! Tablonaute funciona completamente sin conexión.",
     "support_faq_languages": "¿Qué idiomas se admiten?",
-    "support_faq_languages_answer": "La app admite 14 idiomas: inglés, francés, español, alemán, italiano, holandés, portugués, ruso, polaco, japonés, chino, coreano, árabe e hindi."
+    "support_faq_languages_answer": "La app admite 15 idiomas: inglés, francés, español, alemán, italiano, holandés, portugués, ruso, polaco, japonés, chino, coreano, árabe e hindi."
   },
   "de": {
     "lang_name": "Deutsch",
@@ -242,7 +242,7 @@
     "mode_reverse_desc": "Finde die Faktoren eines Produkts",
     "mode_time": "Zeitangriff",
     "mode_time_desc": "Herausforderungsmodus für mehr Geschwindigkeit",
-    "languages": "14 Sprachen",
+    "languages": "15 Sprachen",
     "languages_desc": "Vollständige Unterstützung für Englisch, Französisch, Spanisch, Deutsch, Italienisch, Niederländisch, Portugiesisch, Russisch, Polnisch, Japanisch, Chinesisch, Koreanisch, Arabisch und Hindi.",
     "families": "Perfekt für Familien",
     "families_desc": "Mehrere Profile für jeden Kind seinen eigenen Fortschritt.",
@@ -347,7 +347,7 @@
     "support_contact_text": "Para dúvidas, envie um email para:"
   },
   "ru": {
-    "lang_name": "Russian",
+    "lang_name": "Русский",
     "title": "Tablonaute",
     "tagline": "Учи таблицу умножения голосом",
     "hero_text": "Освой таблицу умножения голосом! Интервальное повторение помогает детям учиться эффективно.",
@@ -371,6 +371,49 @@
     "support_title": "Поддержка",
     "support_contact": "Связаться с нами",
     "support_contact_text": "По вопросам пишите на:"
+  },
+  "uk": {
+    "lang_name": "Українська",
+    "title": "Tablonaute",
+    "tagline": "Вивчай таблицю множення голосом",
+    "hero_text": "Опануй таблицю множення голосом! Інтервальне повторення допомагає дітям вчитися ефективно.",
+    "download": "Завантажити",
+    "play_store": "Google Play",
+    "app_store": "App Store",
+    "coming_soon": "Незабаром",
+    "features": "Можливості",
+    "feature_voice_title": "Голосове навчання",
+    "feature_voice_desc": "Відповідай вголос - як у класі. Не потрібно друкувати.",
+    "feature_smart_title": "Розумне навчання",
+    "feature_smart_desc": "Інтервальне повторення фокусується на тому, що потребує практики.",
+    "feature_offline_title": "Працює офлайн",
+    "feature_offline_desc": "Інтернет не потрібен. Вчися будь-де.",
+    "feature_privacy_title": "Приватність насамперед",
+    "feature_privacy_desc": "Усі дані залишаються на пристрої. Без відстеження.",
+    "modes": "Режими практики",
+    "mode_learn": "Режим навчання",
+    "mode_learn_desc": "Спокійна практика у своєму темпі",
+    "mode_missing": "Пропущене число",
+    "mode_missing_desc": "Знайди пропущений множник (? × 6 = 42)",
+    "mode_reverse": "Зворотний режим",
+    "mode_reverse_desc": "Знайди множники добутку",
+    "mode_time": "На час",
+    "mode_time_desc": "Режим виклику для швидкості",
+    "languages": "15 мов",
+    "languages_desc": "Повна підтримка англійської, французької, іспанської, німецької, італійської, нідерландської, португальської, російської, української, польської, японської, китайської, корейської, арабської та гінді.",
+    "families": "Ідеально для сімей",
+    "families_desc": "Кілька профілів для відстеження прогресу кожної дитини.",
+    "rewards": "Мотивуючі нагороди",
+    "rewards_desc": "Заробляй XP, підвищуй рівень та відкривай трофеї.",
+    "footer_publisher": "Tablonaute Studios за підтримки Warnier Advisory",
+    "footer_contact": "Контакт",
+    "footer_privacy": "Політика конфіденційності",
+    "footer_support": "Підтримка",
+    "privacy_title": "Політика конфіденційності",
+    "privacy_updated": "Останнє оновлення: Січень 2026",
+    "support_title": "Підтримка",
+    "support_contact": "Зв'язатися з нами",
+    "support_contact_text": "З питань пишіть на:"
   },
   "pl": {
     "lang_name": "Polski",
@@ -399,7 +442,7 @@
     "support_contact_text": "W razie pytań napisz na:"
   },
   "ja": {
-    "lang_name": "Japanese",
+    "lang_name": "日本語",
     "title": "Tablonaute",
     "tagline": "声で九九を学ぼう",
     "hero_text": "声で九九をマスター！間隔反復学習で効果的に学べます。",
@@ -425,7 +468,7 @@
     "support_contact_text": "ご質問はこちらへ："
   },
   "zh": {
-    "lang_name": "Chinese",
+    "lang_name": "中文",
     "title": "Tablonaute",
     "tagline": "用声音学习乘法表",
     "hero_text": "用声音掌握乘法表！间隔重复帮助孩子高效学习。",
@@ -451,7 +494,7 @@
     "support_contact_text": "如有问题，请发邮件至："
   },
   "ko": {
-    "lang_name": "Korean",
+    "lang_name": "한국어",
     "title": "Tablonaute",
     "tagline": "목소리로 구구단을 배우세요",
     "hero_text": "목소리로 구구단을 마스터하세요! 간격 반복 학습으로 효과적으로 배웁니다.",
@@ -477,7 +520,7 @@
     "support_contact_text": "질문이 있으시면 이메일을 보내주세요:"
   },
   "ar": {
-    "lang_name": "Arabic",
+    "lang_name": "العربية",
     "title": "Tablonaute",
     "tagline": "تعلم جدول الضرب بالصوت",
     "hero_text": "أتقن جدول الضرب بالصوت! التكرار المتباعد يساعد الأطفال على التعلم بفعالية.",
@@ -503,7 +546,7 @@
     "support_contact_text": "للأسئلة، أرسل بريداً إلكترونياً إلى:"
   },
   "hi": {
-    "lang_name": "Hindi",
+    "lang_name": "हिन्दी",
     "title": "Tablonaute",
     "tagline": "आवाज़ से पहाड़े सीखें",
     "hero_text": "आवाज़ से पहाड़ों में महारत हासिल करें! स्पेस्ड रिपीटिशन बच्चों को प्रभावी ढंग से सीखने में मदद करता है।",

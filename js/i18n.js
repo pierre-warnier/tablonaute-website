@@ -1,6 +1,6 @@
 // Tablonaute i18n - Language detection and translation
 (function() {
-  const SUPPORTED_LANGS = ['en', 'fr', 'es', 'de', 'it', 'nl', 'pt', 'ru', 'pl', 'ja', 'zh', 'ko', 'ar', 'hi'];
+  const SUPPORTED_LANGS = ['en', 'fr', 'es', 'de', 'it', 'nl', 'pt', 'ru', 'uk', 'pl', 'ja', 'zh', 'ko', 'ar', 'hi'];
   const RTL_LANGS = ['ar'];
   let translations = {};
   let currentLang = 'en';
