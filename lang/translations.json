@@ -69,7 +69,8 @@
     "support_faq_offline": "Does the app work offline?",
     "support_faq_offline_answer": "Yes! Tablonaute works completely offline. No internet connection is required.",
     "support_faq_languages": "What languages are supported?",
-    "support_faq_languages_answer": "The app supports 14 languages: English, French, Spanish, German, Italian, Dutch, Portuguese, Russian, Polish, Japanese, Chinese, Korean, Arabic, and Hindi."
+    "support_faq_languages_answer": "The app supports 14 languages: English, French, Spanish, German, Italian, Dutch, Portuguese, Russian, Polish, Japanese, Chinese, Korean, Arabic, and Hindi.",
+    "ios_waitlist": "iOS - Join Waitlist"
   },
   "fr": {
     "lang_name": "Français",
@@ -141,7 +142,8 @@
     "support_faq_offline": "L'app fonctionne-t-elle hors ligne ?",
     "support_faq_offline_answer": "Oui ! Tablonaute fonctionne entièrement hors ligne.",
     "support_faq_languages": "Quelles langues sont supportées ?",
-    "support_faq_languages_answer": "L'app supporte 15 langues : anglais, français, espagnol, allemand, italien, néerlandais, portugais, russe, polonais, japonais, chinois, coréen, arabe et hindi."
+    "support_faq_languages_answer": "L'app supporte 15 langues : anglais, français, espagnol, allemand, italien, néerlandais, portugais, russe, polonais, japonais, chinois, coréen, arabe et hindi.",
+    "ios_waitlist": "iOS - Liste d'attente"
   },
   "es": {
     "lang_name": "Español",
@@ -213,7 +215,8 @@
     "support_faq_offline": "¿La app funciona sin conexión?",
     "support_faq_offline_answer": "¡Sí! Tablonaute funciona completamente sin conexión.",
     "support_faq_languages": "¿Qué idiomas se admiten?",
-    "support_faq_languages_answer": "La app admite 15 idiomas: inglés, francés, español, alemán, italiano, holandés, portugués, ruso, polaco, japonés, chino, coreano, árabe e hindi."
+    "support_faq_languages_answer": "La app admite 15 idiomas: inglés, francés, español, alemán, italiano, holandés, portugués, ruso, polaco, japonés, chino, coreano, árabe e hindi.",
+    "ios_waitlist": "iOS - Lista de espera"
   },
   "de": {
     "lang_name": "Deutsch",
@@ -285,7 +288,8 @@
     "support_faq_offline": "Funktioniert die App offline?",
     "support_faq_offline_answer": "Ja! Tablonaute funktioniert vollständig offline. Es ist keine Internetverbindung erforderlich.",
     "support_faq_languages": "Welche Sprachen werden unterstützt?",
-    "support_faq_languages_answer": "Die App unterstützt 14 Sprachen: Englisch, Französisch, Spanisch, Deutsch, Italienisch, Niederländisch, Portugiesisch, Russisch, Polnisch, Japanisch, Chinesisch, Koreanisch, Arabisch und Hindi."
+    "support_faq_languages_answer": "Die App unterstützt 14 Sprachen: Englisch, Französisch, Spanisch, Deutsch, Italienisch, Niederländisch, Portugiesisch, Russisch, Polnisch, Japanisch, Chinesisch, Koreanisch, Arabisch und Hindi.",
+    "ios_waitlist": "iOS - Warteliste"
   },
   "it": {
     "lang_name": "Italiano",
@@ -357,7 +361,8 @@
     "support_faq_offline": "L'app funziona offline?",
     "support_faq_offline_answer": "Sì! Tablonaute funziona completamente offline. Non è richiesta alcuna connessione internet.",
     "support_faq_languages": "Quali lingue sono supportate?",
-    "support_faq_languages_answer": "L'app supporta 14 lingue: inglese, francese, spagnolo, tedesco, italiano, olandese, portoghese, russo, polacco, giapponese, cinese, coreano, arabo e hindi."
+    "support_faq_languages_answer": "L'app supporta 14 lingue: inglese, francese, spagnolo, tedesco, italiano, olandese, portoghese, russo, polacco, giapponese, cinese, coreano, arabo e hindi.",
+    "ios_waitlist": "iOS - Lista d'attesa"
   },
   "nl": {
     "lang_name": "Nederlands",
@@ -429,7 +434,8 @@
     "support_faq_offline": "Werkt de app offline?",
     "support_faq_offline_answer": "Ja! Tablonaute werkt volledig offline. Er is geen internetverbinding nodig.",
     "support_faq_languages": "Welke talen worden ondersteund?",
-    "support_faq_languages_answer": "De app ondersteunt 14 talen: Engels, Frans, Spaans, Duits, Italiaans, Nederlands, Portugees, Russisch, Pools, Japans, Chinees, Koreaans, Arabisch en Hindi."
+    "support_faq_languages_answer": "De app ondersteunt 14 talen: Engels, Frans, Spaans, Duits, Italiaans, Nederlands, Portugees, Russisch, Pools, Japans, Chinees, Koreaans, Arabisch en Hindi.",
+    "ios_waitlist": "iOS - Wachtlijst"
   },
   "pt": {
     "lang_name": "Português",
@@ -501,7 +507,8 @@
     "support_faq_offline": "O aplicativo funciona offline?",
     "support_faq_offline_answer": "Sim! O Tablonaute funciona completamente offline. Não é necessária conexão com a internet.",
     "support_faq_languages": "Quais idiomas são suportados?",
-    "support_faq_languages_answer": "O aplicativo suporta 14 idiomas: inglês, francês, espanhol, alemão, italiano, holandês, português, russo, polonês, japonês, chinês, coreano, árabe e hindi."
+    "support_faq_languages_answer": "O aplicativo suporta 14 idiomas: inglês, francês, espanhol, alemão, italiano, holandês, português, russo, polonês, japonês, chinês, coreano, árabe e hindi.",
+    "ios_waitlist": "iOS - Lista de espera"
   },
   "ru": {
     "lang_name": "Русский",
@@ -573,7 +580,8 @@
     "support_faq_offline": "Приложение работает офлайн?",
     "support_faq_offline_answer": "Да! Tablonaute работает полностью офлайн. Подключение к интернету не требуется.",
     "support_faq_languages": "Какие языки поддерживаются?",
-    "support_faq_languages_answer": "Приложение поддерживает 14 языков: английский, французский, испанский, немецкий, итальянский, нидерландский, португальский, русский, польский, японский, китайский, корейский, арабский и хинди."
+    "support_faq_languages_answer": "Приложение поддерживает 14 языков: английский, французский, испанский, немецкий, итальянский, нидерландский, португальский, русский, польский, японский, китайский, корейский, арабский и хинди.",
+    "ios_waitlist": "iOS - Лист ожидания"
   },
   "uk": {
     "lang_name": "Українська",
@@ -645,7 +653,8 @@
     "support_faq_offline": "Чи працює застосунок офлайн?",
     "support_faq_offline_answer": "Так! Tablonaute працює повністю офлайн. Підключення до інтернету не потрібне.",
     "support_faq_languages": "Які мови підтримуються?",
-    "support_faq_languages_answer": "Застосунок підтримує 14 мов: англійську, французьку, іспанську, німецьку, італійську, нідерландську, португальську, російську, польську, японську, китайську, корейську, арабську та гінді."
+    "support_faq_languages_answer": "Застосунок підтримує 14 мов: англійську, французьку, іспанську, німецьку, італійську, нідерландську, португальську, російську, польську, японську, китайську, корейську, арабську та гінді.",
+    "ios_waitlist": "iOS - Список очікування"
   },
   "pl": {
     "lang_name": "Polski",
@@ -717,7 +726,8 @@
     "support_faq_offline": "Czy aplikacja działa offline?",
     "support_faq_offline_answer": "Tak! Tablonaute działa całkowicie offline. Nie jest wymagane połączenie z internetem.",
     "support_faq_languages": "Jakie języki są obsługiwane?",
-    "support_faq_languages_answer": "Aplikacja obsługuje 15 języków: angielski, francuski, hiszpański, niemiecki, włoski, niderlandzki, portugalski, rosyjski, polski, japoński, chiński, koreański, arabski i hindi."
+    "support_faq_languages_answer": "Aplikacja obsługuje 15 języków: angielski, francuski, hiszpański, niemiecki, włoski, niderlandzki, portugalski, rosyjski, polski, japoński, chiński, koreański, arabski i hindi.",
+    "ios_waitlist": "iOS - Lista oczekujących"
   },
   "ja": {
     "lang_name": "日本語",
@@ -789,7 +799,8 @@
     "support_faq_offline": "アプリはオフラインで使えますか？",
     "support_faq_offline_answer": "はい！Tablonauteは完全にオフラインで動作します。インターネット接続は必要ありません。",
     "support_faq_languages": "対応している言語は？",
-    "support_faq_languages_answer": "アプリは14言語に対応しています：英語、フランス語、スペイン語、ドイツ語、イタリア語、オランダ語、ポルトガル語、ロシア語、ポーランド語、日本語、中国語、韓国語、アラビア語、ヒンディー語。"
+    "support_faq_languages_answer": "アプリは14言語に対応しています：英語、フランス語、スペイン語、ドイツ語、イタリア語、オランダ語、ポルトガル語、ロシア語、ポーランド語、日本語、中国語、韓国語、アラビア語、ヒンディー語。",
+    "ios_waitlist": "iOS - 順番待ちリスト"
   },
   "zh": {
     "lang_name": "中文",
@@ -861,7 +872,8 @@
     "support_faq_offline": "应用可以离线使用吗？",
     "support_faq_offline_answer": "可以！Tablonaute 完全支持离线使用，无需网络连接。",
     "support_faq_languages": "支持哪些语言？",
-    "support_faq_languages_answer": "应用支持14种语言：英语、法语、西班牙语、德语、意大利语、荷兰语、葡萄牙语、俄语、波兰语、日语、中文、韩语、阿拉伯语和印地语。"
+    "support_faq_languages_answer": "应用支持14种语言：英语、法语、西班牙语、德语、意大利语、荷兰语、葡萄牙语、俄语、波兰语、日语、中文、韩语、阿拉伯语和印地语。",
+    "ios_waitlist": "iOS - 加入等待名单"
   },
   "ko": {
     "lang_name": "한국어",
@@ -933,7 +945,8 @@
     "support_faq_offline": "앱이 오프라인에서 작동하나요?",
     "support_faq_offline_answer": "네! Tablonaute는 완전히 오프라인으로 작동합니다.",
     "support_faq_languages": "어떤 언어를 지원하나요?",
-    "support_faq_languages_answer": "앱은 15개 언어를 지원합니다: 영어, 프랑스어, 스페인어, 독일어, 이탈리아어, 네덜란드어, 포르투갈어, 러시아어, 폴란드어, 일본어, 중국어, 한국어, 아랍어, 힌디어."
+    "support_faq_languages_answer": "앱은 15개 언어를 지원합니다: 영어, 프랑스어, 스페인어, 독일어, 이탈리아어, 네덜란드어, 포르투갈어, 러시아어, 폴란드어, 일본어, 중국어, 한국어, 아랍어, 힌디어.",
+    "ios_waitlist": "iOS - 대기자 명단"
   },
   "ar": {
     "lang_name": "العربية",
@@ -1005,7 +1018,8 @@
     "support_faq_offline": "هل يعمل التطبيق بدون إنترنت؟",
     "support_faq_offline_answer": "نعم\\! يعمل Tablonaute بالكامل دون اتصال بالإنترنت. لا حاجة للاتصال بالإنترنت.",
     "support_faq_languages": "ما اللغات المدعومة؟",
-    "support_faq_languages_answer": "يدعم التطبيق ١٤ لغة: الإنجليزية والفرنسية والإسبانية والألمانية والإيطالية والهولندية والبرتغالية والروسية والبولندية واليابانية والصينية والكورية والعربية والهندية."
+    "support_faq_languages_answer": "يدعم التطبيق ١٤ لغة: الإنجليزية والفرنسية والإسبانية والألمانية والإيطالية والهولندية والبرتغالية والروسية والبولندية واليابانية والصينية والكورية والعربية والهندية.",
+    "ios_waitlist": "iOS - قائمة الانتظار"
   },
   "hi": {
     "lang_name": "हिन्दी",
@@ -1077,6 +1091,7 @@
     "support_faq_offline": "क्या ऐप ऑफ़लाइन काम करता है?",
     "support_faq_offline_answer": "हां! Tablonaute पूरी तरह ऑफ़लाइन काम करता है। इंटरनेट कनेक्शन की आवश्यकता नहीं है।",
     "support_faq_languages": "कौन सी भाषाएं समर्थित हैं?",
-    "support_faq_languages_answer": "ऐप 14 भाषाओं का समर्थन करता है: अंग्रेज़ी, फ्रेंच, स्पेनिश, जर्मन, इतालवी, डच, पुर्तगाली, रूसी, पोलिश, जापानी, चीनी, कोरियाई, अरबी और हिन्दी।"
+    "support_faq_languages_answer": "ऐप 14 भाषाओं का समर्थन करता है: अंग्रेज़ी, फ्रेंच, स्पेनिश, जर्मन, इतालवी, डच, पुर्तगाली, रूसी, पोलिश, जापानी, चीनी, कोरियाई, अरबी और हिन्दी।",
+    "ios_waitlist": "iOS - प्रतीक्षा सूची"
   }
 }
