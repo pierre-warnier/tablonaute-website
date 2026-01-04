@@ -5,18 +5,11 @@
   let translations = {};
   let currentLang = 'en';
 
-  // Detect browser language
+  // Get language - defaults to English unless user selected another
   function detectLanguage() {
     const stored = localStorage.getItem('tablonaute-lang');
     if (stored && SUPPORTED_LANGS.includes(stored)) {
       return stored;
-    }
-
-    const browserLang = navigator.language || navigator.userLanguage;
-    const langCode = browserLang.split('-')[0].toLowerCase();
-
-    if (SUPPORTED_LANGS.includes(langCode)) {
-      return langCode;
     }
     return 'en';
   }
