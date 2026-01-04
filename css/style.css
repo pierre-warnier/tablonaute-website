@@ -78,11 +78,13 @@ header {
   color: var(--text);
   font-size: 0.9rem;
   cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans KR', Oxygen, Ubuntu, sans-serif;
 }
 
 #language-selector option {
   background: #1e1b4b;
   color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans KR', Oxygen, Ubuntu, sans-serif;
 }
 
 #language-selector:focus {
