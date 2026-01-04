@@ -73,11 +73,16 @@ header {
 #language-selector {
   padding: 0.5rem 1rem;
   border-radius: 8px;
-  background: var(--card-bg);
+  background: #1e1b4b;
   border: 1px solid var(--card-border);
   color: var(--text);
   font-size: 0.9rem;
   cursor: pointer;
+}
+
+#language-selector option {
+  background: #1e1b4b;
+  color: var(--text);
 }
 
 #language-selector:focus {
